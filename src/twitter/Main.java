@@ -50,13 +50,14 @@ public class Main {
 
 		System.out.println("■■■■■■■■■■■■■■■■■■■■");
 
-		Follow_User p5 = new Follow_User();
+		/*Follow_User p5 = new Follow_User();
 		try {
 			p5.follow_user();
 		} catch (TwitterException e) {
 			// TODO 自動生成された catch ブロック
 			e.printStackTrace();
 		}
+		*/
 	}
 
 }
